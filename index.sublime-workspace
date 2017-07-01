@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"hide-on-med-a",
+				"hide-on-med-and-down"
+			],
+			[
+				"hid",
+				"hide-on-med-only"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"data",
+				"datatype"
+			],
+			[
+				"t",
+				"test"
+			],
+			[
+				"showcase",
+				"showcase-left"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"texal",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Fo",
+				"FOOD"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"Map",
+				"mapTypeId"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"teal",
+				"text-align"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"FF",
+				"fff"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"bolefra",
+				"border-top-left-radius"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"lis",
+				"list-group"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"mat",
+				"margin-top"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"w",
+				"well"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ca",
+				"carousel-inner"
+			],
+			[
+				"slide",
+				"slidey"
+			],
+			[
+				"btns",
+				"btn-sm"
+			],
+			[
+				"onm",
+				"onmouseleave\tAttr"
+			],
+			[
+				"vis",
+				"visible-sm"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"na",
+				"navbar-brand"
+			],
+			[
+				"text-",
+				"text-center"
+			],
+			[
+				"clas",
+				"class\tAttr"
+			],
+			[
+				"righ",
+				"right"
+			],
+			[
+				"A",
+				"ADIT"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"ar",
+				"arr"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"tedec",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"rig",
+				"padding-right"
+			],
+			[
+				"lef",
+				"margin-left"
+			],
+			[
+				"borderr",
+				"border-right"
+			],
+			[
+				"bordera",
+				"border-top-right-radius"
+			],
+			[
+				"borderra",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"fi",
+				"first-name"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"borderrad",
+				"border-bottom-left-radius"
+			],
+			[
+				"fonth",
+				"font-stretch"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backcl",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ch",
+				"Chicken"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"textdec",
+				"text-decoration"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"ico",
+				"icon"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"uni",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Adit/Coding/Shri/index.html",
+		"/C/Users/Adit/Coding/Web/Materialize/index.html",
+		"/C/Users/Adit/Coding/Web/parallax-template/index.html",
+		"/C/Users/Adit/Downloads/Parallax Template - Materialize.html",
+		"/C/Users/Adit/Desktop/Stories/The Panther.txt",
+		"/C/Users/Adit/Documents/School/Chemistry/Chem HW.docx",
+		"/C/Users/Adit/Desktop/extension/manifest.json",
+		"/C/Users/Adit/Desktop/extension/popup.js",
+		"/C/Users/Adit/Desktop/Stories/That Place.txt",
+		"/C/Users/Adit/Desktop/Stories/That PLace.txt",
+		"/C/Users/Adit/Desktop/Stories/Open Letter.txt",
+		"/C/Users/Adit/Documents/My Games/Age of Empires 3/Savegame/sp_London_homecity.xml",
+		"/C/Users/Adit/Desktop/Stories/Angriest Boy in the World.txt",
+		"/C/Users/Adit/Desktop/Stories/Belial.txt",
+		"/C/Users/Adit/Desktop/DxDiag.txt",
+		"/C/Users/Adit/Downloads/Kali Linux/kali-linux-2016.2-amd64/kali-linux-2016.2-amd64.txt.sha",
+		"/F/DO NOT OPEN/2. Beelzebub.txt",
+		"/F/DO NOT OPEN/1. Belial.txt",
+		"/C/Users/Adit/Coding/Web/SQL notes.txt",
+		"/F/setup-multi2.exe",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/htdocs/auth/css/style.css",
+		"/C/xampp/htdocs/auth/db.php",
+		"/C/xampp/htdocs/auth/register.php",
+		"/C/xampp/htdocs/auth/index.php",
+		"/C/xampp/htdocs/auth/login.php",
+		"/C/xampp/phpMyAdmin/user_password.php",
+		"/C/xampp/htdocs/php/auth/css/style.css",
+		"/C/xampp/htdocs/php/auth/login.php",
+		"/C/xampp/htdocs/php/auth/index.php",
+		"/C/xampp/phpMyAdmin/index.php",
+		"/C/xampp/htdocs/php/auth/register.php",
+		"/C/Users/Adit/Coding/Web/Projects/Scroll Effect - Javascript/css/style.css",
+		"/C/Users/Adit/Coding/Web/Projects/Scroll Effect - Javascript/index.html",
+		"/C/Users/Adit/Coding/Web/Projects/Scroll Effect - Javascript/js/main.js",
+		"/C/Users/Adit/Coding/Web/Projects/Scroll Effect - Javascript",
+		"/C/Users/Adit/Coding/Web/vg key.txt",
+		"/C/Users/Adit/Desktop/extension/popup.html",
+		"/C/Users/Adit/Desktop/Stories/Apartment.txt",
+		"/C/xampp/htdocs/php/index.php",
+		"/C/xampp/htdocs/php/array.php",
+		"/C/xampp/htdocs/php/loops.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Adit/Desktop/Stories/Grandma.txt",
+		"/C/Users/Adit/Desktop/Stories/Neighbours.txt",
+		"/C/Users/Adit/Desktop/link.hot",
+		"/C/Users/Adit/workspace/Blitzkrieg/res/Worlds/world1.txt",
+		"/C/Users/Adit/Desktop/data.json",
+		"/C/Users/Adit/Desktop/Templates/Band/style.css",
+		"/C/Users/Adit/Coding/Web/JQuery/index.html",
+		"/C/Users/Adit/Coding/Web/Bootstrap/bootstrap-3.3.7-dist/index.html",
+		"/C/Users/Adit/Desktop/Templates/Band/index.html",
+		"/C/Users/Adit/Videos/Movies/The Dark Knight Returns - Part 1/_data/Bat.mp4",
+		"/C/Users/Adit/Videos/Movies/Star Wars - The Force Awakens/The Force Awakens.srt",
+		"/C/Users/Adit/Desktop/Templates/band.html",
+		"/C/Users/Adit/Desktop/Templates/style.css",
+		"/C/Users/Adit/Documents/Web/Bootstrap/bootstrap-3.3.7-dist/index.html",
+		"/C/Users/Adit/Documents/Web/Bootstrap/bootstrap-3.3.7-dist/web.html",
+		"/C/xampp/htdocs/learn.php",
+		"/C/Users/Adit/Downloads/get-pip.py",
+		"/C/xampp/htdocs/index.html",
+		"/C/xampp/htdocs/applications.html",
+		"/C/Users/Adit/Documents/Web/Polymer/polymer-starter-kit-2.1.2/README.md",
+		"/C/Users/Adit/Documents/Web/HTML 5/Javascript/index.html",
+		"/C/Users/Adit/Documents/Web/anime/style.css",
+		"/C/xampp/htdocs/alpha.php",
+		"/C/Users/Adit/Documents/Web/Bootstrap/bootstrap-3.3.7-dist/template.html",
+		"/C/Users/Adit/Documents/Web/Bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/xampp/htdocs/bitnami.css",
+		"/C/xampp/htdocs/gamma.php",
+		"/C/xampp/htdocs/beta.php",
+		"/C/Users/Adit/Documents/School Stuffs/Physics/Energy.txt",
+		"/C/Users/Adit/Documents/Web/Bootstrap/bootstrap-3.3.7-dist/style.css",
+		"/C/Users/Adit/Documents/Web/Bootstrap/index.html",
+		"/C/Users/Adit/Documents/Web/Angular Backup/Angular2-GettingStarted-master/APM - Start/app/products/product-list.component.html",
+		"/C/Users/Adit/Downloads/Orwell/Orwell_2.sfv",
+		"/C/Games/Orwell/SmartSteamEmu/Plugins/SSEOverlay/Language.ini",
+		"/C/Games/Orwell/SmartSteamEmu.ini",
+		"/C/Users/Adit/Documents/Software/Notes.txt",
+		"/C/Users/Adit/Documents/Web/twitboot.html",
+		"/C/Users/Adit/Downloads/UnicodeMath-master/emoji.md",
+		"/C/Users/Adit/Downloads/UnicodeMath-master/table.md",
+		"/C/Users/Adit/Documents/Web/JQuery/index.html",
+		"/C/Users/Adit/Documents/School Stuffs/Physics/Energy.pdf",
+		"/C/Users/Adit/Downloads/Steganograph/src/org/gpl/Steganograph/Steganograph.java",
+		"/C/Users/Adit/Documents/School Stuffs/Math/Modular Arithmetic/notes.txt",
+		"/C/Users/Adit/.ssh/id_dsa",
+		"/C/Users/Adit/.ssh/id_dsa.pub",
+		"/C/Users/Adit/Downloads/hee.html",
+		"/C/Users/Adit/Documents/Software/angular-2-template-master/app/ts/main.ts",
+		"/C/Users/Adit/Documents/Software/angular-2-template-master/app/ts/app.component.ts",
+		"/C/Users/Adit/Documents/Web/JQuery/jquery.js",
+		"/C/Users/Adit/Documents/Web/JQuery/style.css",
+		"/C/Users/Adit/Documents/Web/anime/index.html",
+		"/C/Users/Adit/Documents/Web/jquery.js",
+		"/C/Users/Adit/Documents/Web/style.css",
+		"/C/Users/Adit/Documents/Web/index.html",
+		"/C/Users/Adit/Documents/Web/style.scss",
+		"/C/Users/Adit/Documents/Web/script.js",
+		"/C/Users/Adit/Desktop/TCS IT WIZ.txt",
+		"/C/Users/Adit/Documents/dar.html",
+		"/C/Users/Adit/Documents/School Stuffs/Comp Notes.txt",
+		"/C/Users/Adit/Desktop/Git/style.css",
+		"/C/Users/Adit/Desktop/Git/he.txt",
+		"/C/Users/Adit/Desktop/Git/index.html",
+		"/C/Users/Adit/Desktop/Git/Test.java",
+		"/F/Test/src/application/Control.java",
+		"/F/Test/src/application/Main.java",
+		"/F/Test/src/application/style.fxml",
+		"/C/Users/Adit/Downloads/Traverse/index.html",
+		"/C/Users/Adit/Downloads/Landio/index.html",
+		"/C/Users/Adit/Downloads/Landio/scss/bootstrap/_images.scss",
+		"/C/Users/Adit/Downloads/Landio2/Landio/css/landio.css",
+		"/C/Users/Adit/Downloads/Landio/scss/landio.scss",
+		"/C/Users/Adit/Downloads/Landio/css/landio.css",
+		"/C/Users/Adit/Documents/page-scroll-effects/css/style.css",
+		"/C/Users/Adit/Documents/page-scroll-effects/index.html",
+		"/C/Users/Adit/Downloads/Traverse - Web/Synthetica/index.html",
+		"/C/Users/Adit/Documents/Traverse/index.html",
+		"/C/Users/Adit/Documents/Ideas"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"memory",
+			"25cc6d53a8bd8886fcb468eb4fbb4cdfac895c65",
+			"Pacifico",
+			"auth",
+			"25cc6d53a8bd8886fcb468eb4fbb4cdfac895c65",
+			"\t\t\t\t\t\t\n",
+			"Nanna",
+			"id=\"#biggerPls\"",
+			"10",
+			"jumbotron",
+			"carousel",
+			"carusel",
+			"table",
+			" = ",
+			";\n",
+			"<p id=\"navbar\">",
+			"1200px",
+			"600px",
+			"Cent",
+			"jumbotron bg-inverse text-xs-center center-vertically",
+			"jpg"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Adit\\Desktop\\Stories\\Belial.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
