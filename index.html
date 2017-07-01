@@ -10,15 +10,17 @@
         <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     </head>
     <body>
-        <style type="text/css">
-            .navbar-material .nav-wrapper .brand-logo img {
-                height: 64px;
-            }
-        </style>
+    <style type="text/css">
+        @media only screen and (min-width: 601px)
+        materialize.css:782
+        .container {
+            width: 85%;
+        }
+    </style>
 
         <nav class="white" role="navigation">
             <div class="nav-wrapper">
-                <a href="" class="brand-logo left"><img src="shrilogo.png" style="width: 50%; height: auto;"></a>
+                <a href="" class="brand-logo left"><img src="shrilogo.png" style="width: 58px; height: 58px;"></a>
                 <ul class="center hide-on-med-and-down">
                     <div class="container" style="margin-left: 27%;">
                         <div class="row">
@@ -38,7 +40,10 @@
                     </div>
                 </ul>
                 <ul id="nav-mobile" class="side-nav">
-
+                    <li><a href="" class="red-text text-darken-4">Speakers</a></li>
+                    <li><a href="" class="red-text text-darken-4">Schedule</a></li>
+                    <li><a href="" class="red-text text-darken-4">Events</a></li>
+                    <li><a href="#findmepls" class="red-text text-darken-4">Contacts</a></li>
                 </ul>
                 <a href="#" data-activates="nav-mobile" class="button-collapse right-aligned right"><i class="material-icons">menu</i></a>
             </div>
@@ -59,12 +64,21 @@
             <div class="section">
                 <!--   Icon Section   -->
                 <h1 style="text-align: center;" class="red-text text-darken-4">Speakers</h1>
-                <p class="flow-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                
+                <div class="row">
+                    <div class="col s3 hoverable" style="padding: 10px 10px 10px 10px;">
+                        <div class="speaker-img">
+                            <img src="penny.PNG" class="circle responsive-img">
+                            <h4 style="text-align: center; text-decoration: underline black;">Pennywise</h4>
+                        </div>
+                        <ul class="collapsible" data-collapsible="accordion">
+                            <li>
+                                <div class="collapsible-header">About <i class="medium material-icons">info_outline</i></div>
+                                <div class="collapsible-body"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="parallax-container valign-wrapper">
